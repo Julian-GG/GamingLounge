@@ -446,7 +446,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Interact_Custom
+  m_Name: Gaming arcade machine
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -461,7 +461,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: -623603649343465320, guid: c465161e3f949c8498f0b1e416d14611, type: 3}
+  m_Motion: {fileID: 5685697100008369186, guid: 95c7e881dd1a4cd4392db4456062c5da, type: 3}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
